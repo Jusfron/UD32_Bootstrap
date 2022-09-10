@@ -1,0 +1,22 @@
+.container {
+    max-width: 600px;
+    background-color: lightgray;
+    margin-top: 50px;
+    text-align: center;
+    padding: 10px;
+}
+
+h1 {
+    text-align: center;
+    color:rgb(50, 160, 240);
+    border-bottom: solid 1px rgb(173, 173, 173);
+}
+
+i {
+    font-size:xx-large;
+    color: rgb(50, 160, 240);
+}
+
+button {
+    margin: 10px;
+}
