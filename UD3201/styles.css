@@ -1,0 +1,51 @@
+body {
+    background-image: url(fondo-luces-borrosas.webp);
+    background-size:cover;
+}
+
+.container-sm{
+    max-width: 530px;
+}
+
+.btn {
+    background-color: rgb(74, 221, 193);
+    color: black;
+}
+
+#title {
+    text-align: center;
+    color: white;
+    margin: 10px;
+}
+
+#desc {
+    text-align: center;
+    color: white;
+    margin: 10px;
+}  
+
+#upper {
+    background-color: white;
+    color: rgb(185, 185, 185);
+    margin: 10px;
+}
+
+#lower {
+    background-color: lightgray;
+    color: rgb(185, 185, 185);
+    padding: 10px;
+}
+
+#logindesc {
+    margin: 10px;
+}
+
+#loginwith {
+    text-align: center;
+    color: white;
+}
+
+.btn-share {
+    background-color: rgba(0, 0, 0, 0.67);
+    color: lightgrey;
+}
