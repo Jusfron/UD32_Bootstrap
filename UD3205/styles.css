@@ -1,0 +1,22 @@
+h1{
+    color: blue;
+}
+
+i {
+    font-size: larger;
+    padding: 5px;
+    color: white;
+    border-radius: 5px;
+}
+
+i.rojo {
+    background-color: red;
+}
+
+i.azul {
+    background-color: blue;
+}
+
+i.verde {
+    background-color: green;
+}
